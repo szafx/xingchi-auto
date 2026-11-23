@@ -1,0 +1,13 @@
+name = "xingchi-daily"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "STATE"
+id = "dfaf2a9f59294b46bffa30a6bcd4c719"
+
+[vars]
+CONSOLE_BASE = "https://api.xingchiapi.com/api/v1"
+RELAY_BASE = "https://api.xingchiapi.com/v1"
+MAX_DRAWS = "20"

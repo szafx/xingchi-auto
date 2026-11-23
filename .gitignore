@@ -1,0 +1,8 @@
+.dev.vars
+.dev.vars.*
+state.json
+worker/run.json
+worker/live_run.json
+worker/.wrangler/
+node_modules/
+*.log
